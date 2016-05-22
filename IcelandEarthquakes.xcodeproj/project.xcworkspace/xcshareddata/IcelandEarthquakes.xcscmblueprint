@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EBD41F072916014598E9C1212F7FF8D11259ECE3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EBD41F072916014598E9C1212F7FF8D11259ECE3" : 0,
+    "D3239580941E345AB636F3B382D35AC2CB008F45" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3B296CB8-4D49-4A81-B9FE-35E644D474C1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EBD41F072916014598E9C1212F7FF8D11259ECE3" : "IcelandEarthquakes",
+    "D3239580941E345AB636F3B382D35AC2CB008F45" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "IcelandEarthquakes",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IcelandEarthquakes.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BuddyBuild\/BB.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D3239580941E345AB636F3B382D35AC2CB008F45"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:paranoida\/IcelandEarthquakes.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EBD41F072916014598E9C1212F7FF8D11259ECE3"
+    }
+  ]
+}
